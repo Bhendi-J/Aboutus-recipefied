@@ -11,7 +11,7 @@
     --text-color: #333; /* Dark gray for text */
 }
 body {
-    background-color: #ffffff;
+    background-color: #E1F2FE;
     color: var(--text-color);
     font-family: 'Roboto', sans-serif;
     margin: 0;
@@ -30,7 +30,7 @@ body {
 }
 
 header {
-    background: #caffe6;
+    background: #BEE3DB;
     color: #000000;
     padding: 20px 0 0px 0;
     text-align: center;
@@ -63,7 +63,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #caffe6;
+    background: #BEE3DB;
     padding: 50px;
     margin-top: 30px;
     margin-bottom: 50px;
